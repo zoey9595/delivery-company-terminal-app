@@ -32,4 +32,4 @@ Then just feel free to play around :)
 
 ![user menu](menu.png)
 
-I also recorded a short video to walk you through this application briefly, if you are interested, you could find it under the `/final-u6865190` folder.
+I also recorded a short video to walk you through this application briefly, if you are interested, you could find it ![here](video.mp4).
