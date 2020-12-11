@@ -32,6 +32,4 @@ Then just feel free to play around :)
 
 ![user menu](menu.png)
 
-I also recorded a short video to walk you through this application briefly, if you are interested, you could find it here:
-
-[![Watch the video](https://img.youtube.com/vi/v8Bd8SjbjIQ/maxresdefault.jpg)](https://youtu.be/v8Bd8SjbjIQ)
+I also recorded a short video to walk you through this application briefly, if you are interested, you could find it here: https://youtu.be/v8Bd8SjbjIQ
